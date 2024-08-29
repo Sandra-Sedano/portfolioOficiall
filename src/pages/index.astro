@@ -1,0 +1,24 @@
+---
+import { Acordeao } from "../components/Acordeao";
+import { Rodape } from "../components/Rodape";
+import { Home } from "./Index";
+import './style.css'
+
+---
+
+<html data-theme="light"lang="pt-br">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>Portifolio</title>
+	</head>
+	<body>
+		 <div class="bg-base-100 shadow-xl p-10 backgrounColorido">
+      <Home client:load/>
+      
+      <Rodape/>
+      </div>
+	</body>
+</html>
