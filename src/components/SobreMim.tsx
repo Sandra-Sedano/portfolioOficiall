@@ -1,7 +1,7 @@
 export function SobreMim() {
     return (
         <>
-            <h2 className="text-3xl text-center w-full mb-10 mt-4">
+            <h2 className="text-4xl text-center w-full mb-10 mt-4">
                 Sobre Mim
             </h2>
 
@@ -11,7 +11,7 @@ export function SobreMim() {
                         Olá, me chamo Sandra, seja bem-vindo para conhecer um pouquinho sobre mim!
                     </p>
                     <p className="text-justify">
-                        Entrei no Tecnologia em Análise e Desenvolvimento de Sistemas - TADS em 2021, logo que saí do ensino médio, no auge da pandemia do COVID-19. Quando entramos, tivemos um semestre com EAD devido ao distanciamento social.
+                        Entrei no curso Tecnologia em Análise e Desenvolvimento de Sistemas - TADS em 2021, logo que saí do ensino médio, no auge da pandemia do COVID-19. Quando entramos, tivemos um semestre com EAD devido ao distanciamento social.
                     </p>
                     <p className="text-justify">
                         Trabalho como suporte e treinamento para clientes na Efisim Sistemas, onde realizo treinamento e ensino a como usar o software ERP SisECF. Também atuo como suporte, tirando dúvidas que surgem no dia a dia. Nos tempos livres, realizo testes de novas versões que serão lançadas no sistema antes da implementação no cliente.
