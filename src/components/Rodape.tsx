@@ -32,7 +32,7 @@ export function Rodape (){
     </div>
   </nav> 
   <aside>
-    <p>Desenvolvido por TADS 2024</p>
+    <p>Desenvolvido por Sandra Sedano</p>
   </aside>
 </footer>
         </>
